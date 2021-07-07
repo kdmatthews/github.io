@@ -1,0 +1,43 @@
+html {
+        font-family: 'Yomogi', cursive;
+}
+p, li {
+    color: rgb(255, 0, 119);
+    font-size: 25px;
+    letter-spacing: 1px;
+  }
+h1 {
+     color:rgb(32, 185, 178);
+     font-size: 50px;
+     text-align: center;
+     margin: 0;
+     padding: 10px 0;
+     
+}
+h2 {
+    color: rgb(3, 124, 124);
+    font-size: 100px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    text-shadow: 3px 3px 1px rgb(233, 231, 231);
+    
+}
+html {
+    background-color: #188fad;
+  }
+  body {
+    width: 1250px;
+    margin: 0 auto;
+    background-color: #030302;
+    padding: 0 70px 70px 70px;
+    border: 7px solid rgb(224, 44, 119);
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  a {
+      color:chartreuse;
+      font-size: 25px;
+  }
